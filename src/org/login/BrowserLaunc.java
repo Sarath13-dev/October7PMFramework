@@ -28,6 +28,8 @@ public class BrowserLaunc {
 		WebElement txtPassword = driver.findElement(By.id("pass"));
 		
 		txtPassword.sendKeys("12345");
+		System.out.println("Work by B");
+		System.out.println("pls accept");
 		
 	}
 	
