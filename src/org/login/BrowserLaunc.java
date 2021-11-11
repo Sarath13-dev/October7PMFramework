@@ -30,6 +30,11 @@ public class BrowserLaunc {
 		txtPassword.sendKeys("12345");
 		System.out.println("work done in A");
 		System.out.println("i am tester");
+		System.out.println("Work by B");
+		System.out.println("pls accept");
+
+
+
 		
 	}
 	
